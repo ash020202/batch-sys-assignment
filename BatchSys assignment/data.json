@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "headline": "make the best financial decisions",
+    "subheadline": " Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+    "ctaButtons": [
+      {
+        "text": "Download Now",
+        "link": "/download"
+      },
+      {
+        "text": "Learn More",
+        "link": "#features"
+      }
+    ]
+  },
+  "features": [
+    {
+      "title": "budgeting intervals",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "./images/featureliststar.svg"
+    },
+    {
+      "title": "budgeting intervals",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "./images/featurelistcube.svg"
+    },
+    {
+      "title": "budgeting intervals",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "./images/featurelistcubetwo.svg"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "User One",
+      "feedback": "This app is fantastic! It has changed my life.",
+      "avatar": "https://via.placeholder.com/50"
+    },
+    {
+      "name": "User Two",
+      "feedback": "I can't imagine my daily routine without this app.",
+      "avatar": "https://via.placeholder.com/50"
+    }
+  ],
+  "pricing": [
+    {
+      "plan": "Basic",
+      "price": "$9.99/month",
+      "features": ["Feature A", "Feature B", "Feature C"]
+    },
+    {
+      "plan": "Premium",
+      "price": "$19.99/month",
+      "features": ["Feature A", "Feature B", "Feature C", "Feature D"]
+    }
+  ]
+}
