@@ -1,7 +1,7 @@
 # batch-sys-assignment
 Here's your README formatted for GitHub:
 
-# My Responsive Web Page with Dynamic Content
+# My Responsive Web Page 
 
 ## Introduction
 This project showcases a responsive web page built with HTML, CSS, and JavaScript. The page features dynamic content loaded from a JSON file, a dark mode toggle, smooth scrolling, and a mobile-friendly design. This project was created using a desktop-first approach.
@@ -14,7 +14,7 @@ This project showcases a responsive web page built with HTML, CSS, and JavaScrip
 
 ### Dynamic Content:
 - Some sections of the page are populated dynamically using data from a `data.json` file.
-- Features and advantages sections are generated based on the JSON data.
+- Home and Features sections are generated based on the JSON data.
 
 ### Smooth Scroll:
 - Implemented smooth scrolling for navigation links, enhancing the user experience.
@@ -35,7 +35,7 @@ This project showcases a responsive web page built with HTML, CSS, and JavaScrip
 
 ## JavaScript
 - Used JavaScript to dynamically populate sections of the page.
-- Added event listeners for features such as the dark mode toggle and smooth scrolling.
+- Added event listeners for features such as the dark mode toggle and also used to toggle mobile nav.
 
 ## Future Enhancements
 I did not have enough time to make the entire website fully dynamic. However, I plan to continue working on this project and complete the dynamic content integration.
