@@ -1,10 +1,9 @@
-# batch-sys-assignment
-Here's your README formatted for GitHub:
-
 # My Responsive Web Page 
 
 ## Introduction
 This project showcases a responsive web page built with HTML, CSS, and JavaScript. The page features dynamic content loaded from a JSON file, a dark mode toggle, smooth scrolling, and a mobile-friendly design. This project was created using a desktop-first approach.
+
+**Visit Here :** (https://ash020202.github.io/batch-sys-assignment/BatchSys%20assignment/)
 
 ## Features
 
